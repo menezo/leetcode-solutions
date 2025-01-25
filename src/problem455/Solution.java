@@ -20,7 +20,7 @@ public class Solution {
                 counter++;
                 child++; //Move to the next child only if the current child is content
             }
-            //Always go to the next cookie 
+            //Always go to the next cookie
             cookie++;
         }
         return counter;
