@@ -1,4 +1,4 @@
-package problem605;
+package problem605_CanPlaceFlowers;
 
 public class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {

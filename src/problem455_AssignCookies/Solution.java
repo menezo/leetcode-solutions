@@ -1,4 +1,4 @@
-package problem455;
+package problem455_AssignCookies;
 
 import java.util.Arrays;
 
