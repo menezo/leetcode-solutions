@@ -1,3 +1,4 @@
+# 1700 - Number of Students to Eat Lunch
 Date: 2025-01-27
 **Link**: [LeetCode Problem 1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/) 
 **Difficulty**: #Easy  
