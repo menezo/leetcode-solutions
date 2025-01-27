@@ -1,4 +1,4 @@
-package problema20_ValidParentheses;
+package problem20_ValidParentheses;
 import java.util.Stack;
 
 public class Solution {
