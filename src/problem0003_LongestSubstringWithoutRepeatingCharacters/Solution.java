@@ -1,4 +1,4 @@
-package problem3_LongestSubstringWithoutRepeatingCharacters;
+package problem0003_LongestSubstringWithoutRepeatingCharacters;
 
 import java.util.*;
 

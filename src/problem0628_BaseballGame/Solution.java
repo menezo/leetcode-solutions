@@ -1,4 +1,4 @@
-package problem628_BaseballGame;
+package problem0628_BaseballGame;
 
 import java.util.Stack;
 
